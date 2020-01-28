@@ -21,8 +21,8 @@ Symbols used in the above input file:
 -------------------------------------
 q: Ready queue
 tq: time quantum
-Example: 
 
+Example: 
 -------------------------------------
 q 1 tq 4 p1 10 p2 5 p3 7 p4 20 p5 17 p6 9 p7 3 p8 11 p9 15 p10 1
 
